@@ -12,7 +12,7 @@ import "strings"
 // the overflowed text breaks into next line.
 /*
   strs := []string{
-		"[0] github.com/gizak/termui",
+		"[0] github.com/simonsargeant/termui",
 		"[1] editbox.go",
 		"[2] iterrupt.go",
 		"[3] keyboard.go",
